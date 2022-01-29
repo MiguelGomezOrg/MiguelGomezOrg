@@ -1,5 +1,8 @@
 - 👋 Hi, I’m @MiguelGomezOrg
-- 👀 I’m interested in Web, Mobile and Machine Learning technologies.  
+- 👀 I’m interested in:
+    -  Web, Mobile and Machine Learning technologies.  
+    -  Research articles.
+    -  Social projects
 - 🌱 I’m currently learning Data Science with Python
 - 💞️ I’m looking to collaborate on health projects about artificial vision and machine learning
 - 📫 How to reach me ...
