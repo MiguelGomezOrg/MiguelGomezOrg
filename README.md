@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science with Python
 - 💞️ I’m looking to collaborate on health projects about artificial vision and machine learning
 - 📫 How to reach me ...
-<https://miguel-gomez.org/>
+    - <https://miguel-gomez.org/>
 
 
 <!---
